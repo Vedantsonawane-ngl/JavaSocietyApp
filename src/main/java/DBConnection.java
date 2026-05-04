@@ -18,6 +18,7 @@ public class DBConnection {
 
         }
         catch(Exception e){
+            System.out.println("Hello");
             e.printStackTrace();
         }
 
